@@ -1,18 +1,4 @@
 {
     "name": "rajkumar14051988/mage",
-    "license": "MIT",
-     "repositories": [
-    {
-        "type":"package",
-        "package": {
-          "name": "rajkumar14051988/mage",
-          "version":"master",
-          "source": {
-              "url": "https://github.com/rajkumar14051988/mage.git",
-              "type": "git",
-              "reference":"master"
-            }
-        }
-    }
-]
+    "license": "MIT"
 }
