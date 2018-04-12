@@ -1,7 +1,6 @@
 {
     "name": "payrexx/mage",
     "license": "MIT",
-    "minimum-stability": "dev",
     "require": {
         "payrexx/payrexx": "@dev"
     }
