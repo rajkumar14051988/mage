@@ -2,7 +2,7 @@
     "name": "rajkumar14051988/mage",
     "license": "MIT",
     "require": {
-        "payrexx/payrexx": "1.0.0"
+        "payrexx/payrexx": "dev-master"
     }
 }
 
