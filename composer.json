@@ -1,7 +1,7 @@
 {
-    "name": "rajkumar14051988/testing",
+    "name": "rajkumar14051988/mage",
+    "license": "MIT",
     "require": {
-        "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
-    },
-    "version": "1.0.0"
+        "payrexx/payrexx": "@dev"
+    }
 }
